@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.underapps.navdrawerboilerplate.fragments.FragmentNavDrawer"
+    android:background="@android:color/white"
+    android:id="@+id/menu"
+
+    >
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:background="#536DFE"
+        android:layout_height="148dp">
+
+        </LinearLayout>
+</FrameLayout>
