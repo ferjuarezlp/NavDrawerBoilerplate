@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 .gradle
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
 /build
+=======
+>>>>>>> 47ab7243388aa356c3f2aee541a048c0d3933f1c
 # Built application files
 *.apk
 *.ap_
